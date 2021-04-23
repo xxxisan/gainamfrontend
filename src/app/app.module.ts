@@ -38,7 +38,6 @@ import { ReservationComponent } from './components/reservation/reservation.compo
 import{ReservationListComponent} from './components/admin/reservation-list/reservation-list.component';
 import { ChefDashboardComponent } from './components/chef/chef-dashboard/chef-dashboard.component';
 import { InventoryListComponent } from './components/admin/inventory-list/inventory-list.component';
-import { ManagerdashboardComponent } from './components/manager/managerdashboard/managerdashboard.component';
 
 @NgModule({
   declarations: [
@@ -71,8 +70,6 @@ import { ManagerdashboardComponent } from './components/manager/managerdashboard
     ChefDashboardComponent,
     
     InventoryListComponent,
-    
-    ManagerdashboardComponent,
     
     
   ],
